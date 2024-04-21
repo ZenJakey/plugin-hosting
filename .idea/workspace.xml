@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="try uppercase sha512">
+    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="replace \u003d with =">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713726345383</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="replace \u003d with =">
+      <option name="closed" value="true" />
+      <created>1713726883413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713726883413</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +130,7 @@
     <MESSAGE value="Maybe get client to see plugins now?" />
     <MESSAGE value="Add hyphenated plugin to pluginid" />
     <MESSAGE value="try uppercase sha512" />
-    <option name="LAST_COMMIT_MESSAGE" value="try uppercase sha512" />
+    <MESSAGE value="replace \u003d with =" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace \u003d with =" />
   </component>
 </project>
