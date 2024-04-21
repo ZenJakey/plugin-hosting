@@ -4,777 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/achievementdiary-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/achievementdiary-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/achievementdiary-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/achievementdiary-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/achievementdiary-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/achievementdiary-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/agility-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/ammo-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/animsmoothing-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/antidrag-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/antidrag-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/antidrag-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/antidrag-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/antidrag-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/attackstyles-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/attackstyles-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/attackstyles-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/attackstyles-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/attackstyles-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/attackstyles-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bank-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banktags-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banlist-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banlist-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banlist-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banlist-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banlist-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/banlist-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barbarianassault-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barrows-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barrows-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barrows-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barrows-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/barrows-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/betterantidrag-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/betterinterfacestyles-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/betterprofiles-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/betterprofiles-4.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/betterroguesden-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastfurnance-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastfurnance-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastfurnance-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastfurnance-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastmine-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastmine-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/blastmine-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/boosts-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bosstimer-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bosstimetracker-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bronzeman-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bronzeman-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bronzeman-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bronzeman-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/bronzeman-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/camera-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/camera-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/camera-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/camera-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/camera-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/camera-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cannon-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cannon-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cannon-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cannon-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cannon-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cannon-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatcommands-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatfilter-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chathistory-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chathistory-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chathistory-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chathistory-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chathistory-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chathistory-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatnotifications-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatnotifications-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatnotifications-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatnotifications-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatnotifications-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chatnotifications-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chattranslation-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chattranslation-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/chattranslation-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/clanchat-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/clanchat-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/clanchat-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/clanchat-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/clanchat-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/clanchat-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/classic-377-0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/classic-377-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.29.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.31.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.33.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.35.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.36.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.37.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.38.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.39.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.40.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.41.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.0.42.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cluescroll-0.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/combatlevel-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/combatlevel-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/combatlevel-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cooking-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cooking-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/cooking-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/corp-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/corp-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/corp-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/corp-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/corp-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/customclientresizing-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/customcursor-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/customcursor-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/dailytaskindicators-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/deathindicator-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/deathindicator-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/deathindicator-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/deathindicator-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/defaultworld-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/devtools-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/discord-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/dpscounter-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/dpscounter-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/dpscounter-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/dpscounter-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/dpscounter-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/driftnet-0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/driftnet-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/driftnet-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/emojis-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/emojis-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/emojis-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/emojis-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/emojis-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/emojis-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/entityhider-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/entityhider-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/equipmentinspector-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/equipmentinspector-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/equipmentinspector-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/equipmentinspector-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/equipmentinspector-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/examine-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/examine-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/examine-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/examine-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/experiencedrop-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/experiencedrop-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/experiencedrop-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/experiencedrop-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/experiencedrop-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/experiencedrop-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fairyring-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fairyring-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fairyring-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/feed-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/feed-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fishing-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fishing-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fishing-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fishing-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fishing-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fishing-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/fps-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendlist-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendlist-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendnotes-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendnotes-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendtagging-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendtagging-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendtagging-5.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/friendtagging-5.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/gpu-0.0.29.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grandexchange-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditems-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditemsextended-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditemsextended-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditemsextended-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/grounditemsextended-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/groundmarkers-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/groundmarkers-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/herbiboar-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highalchemy-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highalchemy-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highalchemy-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highalchemy-6.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/highscore-0.2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/hiscore-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/hiscore-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/hunter-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/idlenotifier-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/implings-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/instancemap-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/interfacestyles-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/interfacestyles-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/interfacestyles-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/interfacestyles-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/interfacestyles-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventorygrid-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventorygrid-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventorytags-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventorytags-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventorytags-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventoryviewer-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventoryviewer-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/inventoryviewer-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemcharges-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemidentification-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemidentification-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemidentification-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemidentification-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemprices-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemprices-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemprices-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemprices-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemskeptondeath-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemskeptondeath-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemskeptondeath-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemskeptondeath-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemskeptondeath-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/itemstats-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/keyremapping-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/kingdomofmiscellania-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/kingdomofmiscellania-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/kourendlibrary-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/kourendlibrary-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/kourendlibrary-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/kourendlibrary-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/learntoclick-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loginscreen-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loginscreen-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loginscreen-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loginscreen-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/loottracker-0.0.29.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/lowmemory-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/maxhit-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/maxhit-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/maxhit-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/maxhit-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/maxhit-4.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/menuentryswapper-0.0.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/metronome-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/metronome-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/metronome-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/metronome-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/minimap-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/minimap-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/minimap-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mining-0.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mirror-0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mirror-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mirror-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mirror-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mirror-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mirror-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/motherlode-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/motherlode-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/motherlode-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/motherlode-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mousehighlight-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/mta-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/music-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/music-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/music-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/music-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/music-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/neverlogout-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/nightmarezone-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/nightmarezone-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/nightmarezone-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/nightmarezone-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/nightmarezone-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/notes-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npchighlight-0.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npcstatus-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npcunaggroarea-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npcunaggroarea-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/npcunaggroarea-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/objectindicators-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/objectindicators-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/objectindicators-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/objectindicators-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/opponentinfo-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/opponentinfo-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/opponentinfo-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/opponentinfo-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/party-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/party-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/party-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/performancestats-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/pestcontrol-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicators-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerindicatorsextended-5.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/playerinfo-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/poh-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/poh-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/poh-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/poh-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/poison-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayer-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayer-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayer-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayer-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayer-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayer-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/prayeralert-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/privateserver-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/profiles-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/profiles-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/profiles-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/profiles-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/puzzlesolver-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/pyramidplunder-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/pyramidplunder-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/pyramidplunder-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questhelper-0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questhelper-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questhelper-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questhelper-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questlist-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questlist-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/questlist-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raids-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raidsthieving-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raidsthieving-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raidsthieving-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/raidsthieving-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/randomevents-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/randomevents-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/randomevents-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/reminders-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/reminders-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/reportbutton-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/reportbutton-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/reportbutton-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/roguesden-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/roguesden-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/runecraft-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/runecraft-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/runecraft-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/runepouch-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenmarkers-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenmarkers-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenmarkers-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenmarkers-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenmarkers-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenmarkers-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/screenshot-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/shayzieninfirmary-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/shayzieninfirmary-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skillcalculator-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skybox-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/skybox-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayer-0.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayermusiq-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayermusiq-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/slayermusiq-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/smelting-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/smelting-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/spawntimer-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/specialcounter-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/specialcounter-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/statusbars-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/statusbars-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/statusorbs-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/statusorbs-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/statusorbs-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/stealingartefacts-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/stealingartefacts-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/stretchedmode-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/suppliestracker-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/suppliestracker-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/suppliestracker-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/suppliestracker-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/teamcapes-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/teamcapes-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tearsofguthix-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/thieving-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/thieving-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/thieving-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/thieving-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/thieving-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tickcounter-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tickcounter-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tickcounter-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tileindicators-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timers-0.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timestamp-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timestamp-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/timetracking-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tithefarm-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/tmorph-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/twitch-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/twitch-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/virtuallevels-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/virtuallevels-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/virtuallevels-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/virtuallevels-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wiki-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wiki-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wintertodt-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wintertodt-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wintertodt-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wintertodt-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/wintertodt-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/woodcutting-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/woodcutting-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/woodcutting-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/woodcutting-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldhopper-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/worldmap-0.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpglobes-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpglobes-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpglobes-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xptracker-0.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpupdater-0.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpupdater-0.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpupdater-0.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/xpupdater-0.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/zalcano-0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/zalcano-0.0.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release/zalcano-0.0.3.jar" beforeDir="false" />
+    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="remove old 3pc plugins, add plugin hub plugins, format names properly">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -786,28 +17,54 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2fQ5jWJ0svrEv4FE7Aa7YsviPWa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="plugin-hosting.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -817,6 +74,27 @@
       <option name="presentableId" value="Default" />
       <updated>1713720599523</updated>
     </task>
+    <task id="LOCAL-00001" summary="remove old 3pc plugins, add plugin hub plugins, format names properly">
+      <option name="closed" value="true" />
+      <created>1713721962987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713721962987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove old 3pc plugins, add plugin hub plugins, format names properly">
+      <option name="closed" value="true" />
+      <created>1713724036631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713724036631</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove old 3pc plugins, add plugin hub plugins, format names properly" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove old 3pc plugins, add plugin hub plugins, format names properly" />
   </component>
 </project>

@@ -55,5 +55,5 @@ data class ReleaseModel(
     val sha512sum: String,
     val version: String = "0.0.1",
     val url: String,
-    val requires: String = "0.0.1"
+    val requires: String = "^0.0.1"
 )
