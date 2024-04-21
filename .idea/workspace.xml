@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="remove old 3pc plugins, add plugin hub plugins, format names properly">
+    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="Maybe get client to see plugins now?">
+      <change beforePath="$PROJECT_DIR$/plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,11 +91,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713724036631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Maybe get client to see plugins now?">
+      <option name="closed" value="true" />
+      <created>1713724833113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713724833113</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove old 3pc plugins, add plugin hub plugins, format names properly" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove old 3pc plugins, add plugin hub plugins, format names properly" />
+    <MESSAGE value="Maybe get client to see plugins now?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maybe get client to see plugins now?" />
   </component>
 </project>
