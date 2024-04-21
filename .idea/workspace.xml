@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="Add hyphenated plugin to pluginid">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins.json" afterDir="false" />
+    <list default="true" id="f04b843a-9eec-490f-94d9-b786910dd302" name="Changes" comment="try uppercase sha512">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,13 +106,22 @@
       <option name="project" value="LOCAL" />
       <updated>1713725435435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="try uppercase sha512">
+      <option name="closed" value="true" />
+      <created>1713726345383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713726345383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove old 3pc plugins, add plugin hub plugins, format names properly" />
     <MESSAGE value="Maybe get client to see plugins now?" />
     <MESSAGE value="Add hyphenated plugin to pluginid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hyphenated plugin to pluginid" />
+    <MESSAGE value="try uppercase sha512" />
+    <option name="LAST_COMMIT_MESSAGE" value="try uppercase sha512" />
   </component>
 </project>

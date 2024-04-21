@@ -20,13 +20,14 @@ fun main() {
     files?.forEach {
         val checksum = checksum(rootPath + "/" + it.name)
         println(it.name + ": " + checksum)
-        val release = ReleaseModel(date = "2024-04-21", sha512sum = checksum.uppercase(Locale.getDefault()), url="https://github.com/ZenJakey/plugin-hosting/blob/master/release/" + it.name + """?raw=true""")
+        val release = ReleaseModel(date = "2024-04-21", sha512sum = checksum.uppercase(Locale.getDefault()), url="https://github.com/ZenJakey/plugin-hosting/blob/master/release/" + it.name + "?raw=true")
         val plugin = PluginModel(name = it.name.split("-0")[0], id = it.name.split("-0")[0] + "-plugin", releases = listOf(release))
         releaseList.add(plugin)
     }
 
     val gson = Gson()
-    pluginsFile.writeText(gson.toJson(releaseList.toList()))
+    pluginsFile.writeText(gson.toJson(releaseList.toList()).replace("\\u003d", "="))
+
 }
 
 fun checksum(path: String): String {
