@@ -13,6 +13,7 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     implementation("commons-codec:commons-codec:1.16.1")
+    implementation("com.google.code.gson:gson:2.9.1")
 }
 
 tasks.test {
